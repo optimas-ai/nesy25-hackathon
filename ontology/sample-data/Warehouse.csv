@@ -1,0 +1,11 @@
+locationID,locationName,coordinates,capacityLimit,storageType,operationalHours
+LOC0319,Warehouse 1,"66.8800,-80.9800",4128,Dry,08:00-18:00
+LOC0492,Warehouse 2,"44.4100,162.3500",4823,Dry,09:00-17:00
+LOC0121,Warehouse 3,"49.6900,-155.9100",2875,Dry,24/7
+LOC0837,Warehouse 4,"21.8000,101.1800",1958,Dry,08:00-18:00
+LOC0323,Warehouse 5,"84.2800,-165.4600",4009,Refrigerated,09:00-17:00
+LOC0028,Warehouse 6,"48.6500,-154.5100",2900,Refrigerated,08:00-18:00
+LOC0496,Warehouse 7,"8.7000,-150.9700",2832,Refrigerated,08:00-18:00
+LOC0386,Warehouse 8,"60.4700,4.2500",3088,Refrigerated,08:00-18:00
+LOC0895,Warehouse 9,"6.7400,-80.0400",2754,Dry,08:00-18:00
+LOC0223,Warehouse 10,"36.8000,109.8600",1679,Refrigerated,08:00-18:00

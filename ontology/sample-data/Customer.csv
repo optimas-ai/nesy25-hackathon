@@ -1,0 +1,11 @@
+customerID,customerPriority,contactEmail
+CUS0700,Low,john.doe@example.com
+CUS0081,Medium,jane.smith@example.com
+CUS0831,High,alice.johnson@example.com
+CUS0065,Medium,bob.brown@example.com
+CUS0275,Low,charlie.davis@example.com
+CUS0748,High,david.evans@example.com
+CUS0386,High,emma.fisher@example.com
+CUS0921,High,frank.green@example.com
+CUS0448,Low,grace.harris@example.com
+CUS0296,Medium,henry.irving@example.com
