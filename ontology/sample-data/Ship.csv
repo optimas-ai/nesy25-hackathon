@@ -1,11 +1,11 @@
 vehicleID,containerCapacity,portOfRegistry
-SHP-3001,401,Port of Hamburg
-SHP-3002,219,Port of Los Angeles
-SHP-3003,812,Port of Shanghai
-SHP-3004,255,Port of Antwerp
-SHP-3005,375,Port of Rotterdam
-SHP-3006,248,Port of Rotterdam
-SHP-3007,371,Port of Rotterdam
-SHP-3008,825,Port of Singapore
-SHP-3009,272,Port of Singapore
-SHP-3010,692,Port of Singapore
+VEH0002,1000,Port of Genesis
+VEH0004,1200,Port of Atlantis
+VEH0006,900,Port of Elysium
+VEH0008,1100,Port of Avalon
+VEH0010,1300,Port of Horizon
+VEH0012,800,Port of Arcadia
+VEH0014,1400,Port of Olympus
+VEH0016,1050,Port of Valhalla
+VEH0018,950,Port of Camelot
+VEH0020,1500,Port of Xanadu

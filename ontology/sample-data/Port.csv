@@ -1,11 +1,11 @@
-locationID,locationName,coordinates,capacityLimit,portType,customsClearanceTime
-LOC0157,Port of Los Angeles,"42.6500,93.2700",2003,Seaport,5
-LOC0174,Port of Rotterdam,"53.5000,-79.0100",1546,Airport,16
-LOC0794,Port of Singapore,"85.1400,-125.4100",9830,Seaport,9
-LOC0893,Port of Shanghai,"17.2600,101.2400",4663,Seaport,17
-LOC0417,Port of New York,"59.6500,-165.8600",3024,Seaport,23
-LOC0197,Port of Hamburg,"13.8600,-127.6100",8353,Seaport,10
-LOC0988,Port of Busan,"34.7800,-134.3700",9577,Seaport,14
-LOC0773,Port of Dubai,"16.3700,-171.0400",8183,Seaport,4
-LOC0851,Port of Antwerp,"4.5300,-165.6200",7989,Seaport,18
-LOC0638,Port of Hong Kong,"9.4400,65.3300",9077,Airport,13
+locationID,portType,customsClearanceTime
+LOC0002,Seaport,24
+LOC0004,Airport,12
+LOC0006,Seaport,36
+LOC0008,Airport,18
+LOC0010,Seaport,48
+LOC0012,Airport,24
+LOC0014,Seaport,30
+LOC0016,Airport,16
+LOC0018,Seaport,40
+LOC0020,Airport,20
