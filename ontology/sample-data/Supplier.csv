@@ -1,11 +1,11 @@
 supplierID,supplierName,reliabilityScore
-SUP0950,Amazon Logistics,4.8
-SUP0289,FedEx Supply Chain,3.15
-SUP0511,DHL Global,3.47
-SUP0505,UPS Supply Chain,4.42
-SUP0263,Maersk Logistics,3.78
-SUP0782,Kuehne+Nagel,4.84
-SUP0584,DB Schenker,3.23
-SUP0772,XPO Logistics,4.6
-SUP0474,C.H. Robinson,4.96
-SUP0444,Expeditors International,3.56
+SUP001,Stark Industries,4.9
+SUP002,Wayne Enterprises,4.8
+SUP003,Cyberdyne Systems,3.5
+SUP004,Tyrell Corporation,4.2
+SUP005,Weyland-Yutani Corp,2.1
+SUP006,Acme Corporation,1.5
+SUP007,Globex Corporation,4.5
+SUP008,Soylent Corporation,3.9
+SUP009,InGen,3.2
+SUP010,Omni Consumer Products,4.1
